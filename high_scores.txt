@@ -1,0 +1,3 @@
+Tolya,60, level2
+Masya,30,   level1
+Disa,20,  level3
